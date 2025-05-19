@@ -33,3 +33,7 @@ My focus was on clarity, interactivity, and usability — all built in Excel, in
 Open to feedback, collaboration, or opportunities. Let’s see where this journey leads!
 
 #Day1 #Excel #DataAnalysis #Dashboard #OpenToWork #JobSearch #DataAnalytics #PowerBI #Python #SQL #HireMe #DataViz
+
+
+![image](https://github.com/user-attachments/assets/0fedbcf7-4176-4c06-9600-6a755f4f4262)
+
